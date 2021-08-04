@@ -4,7 +4,7 @@
 
 
 ####################################################################
-def main(time_sec):
+def get_frame(time_sec):
     '''
     Reads the given video(aruco_bot.mp4) and captures the frame at the given second that is provided as the argument
     Parameters
@@ -71,6 +71,6 @@ def mark_Aruco(frame, corners):
 # main function
 ############################################################################################
 if __name__ == '__main__':
-    frame = main(input("time value in seconds:"))
+    frame = get_frame(input("time value in seconds:"))
     corners = detect_Aruco(frame)
     marked_frame = mark_Aruco(frame, corners)
