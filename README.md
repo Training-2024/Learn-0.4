@@ -2,8 +2,8 @@
 
 
 
-- [Videoprocessing Tutorials](https://github.com/Training-2024/Learn-0.3/tree/main/video_processing_tutorials)
-- [Arucomarker Tutorials](https://github.com/Training-2024/Learn-0.3/tree/main/aruco_marker_tutorials)
+- [Videoprocessing Tutorials](https://github.com/Training-2024/Learn-0.4/tree/main/video_processing_tutorials)
+- [Arucomarker Tutorials](https://github.com/Training-2024/Learn-0.4/tree/main/aruco_marker_tutorials)
 
 
 <hr/>
