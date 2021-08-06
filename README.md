@@ -5,6 +5,11 @@ You  guys might've finished the previous module, [Learn-0.3](https://github.com/
 
 <p>Digital images and Videos are everywhere these days – in thousands of scientific (e.g., astronomical, bio-medical), consumer, industrial, and artistic applications. Moreover they come in a wide range of the electromagnetic spectrum - from visible light and infrared to gamma rays and beyond. The ability to process image and video signals is therefore an incredibly important skill to master for engineering/science students, software developers, and practicing scientists.   Digital image and video processing continues to enable the multimedia technology revolution we are experiencing today. Some important examples of image and video processing include the removal of degradations images suffer during acquisition (e.g., removing blur from a picture of a fast moving car), and the compression and transmission of images and videos (if you watch videos online, or share photos via a social media website, you use this everyday!), for economical storage and efficient transmission.  </p>
 
+## Aruco Marker
+
+<p> Markers are reference shapes which can be helpful to give some info to change our space from 2D to 3D. ArUco markers are normally squared binary(Black&White) markers. These markers are stored in the ArUco dictionary as binary. After the detection of the markers in the image, they are compared to the ones in the dictionary and calculated which marker has which id.Ok..let's not go deep into it here..</p>
+
+
 As <!--previously-->told in the First Module, our **Robotics Club** <!--is promoting-->encourages and expects **_SELF LEARNING_**. So you guys might have understood what to do now...
 
 Use these resources thatt we have curated for you to learn Video Processing.
